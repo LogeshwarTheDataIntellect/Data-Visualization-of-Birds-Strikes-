@@ -1,0 +1,349 @@
+Wildlife: Species,Number of Bird Strikes
+Acadian flycatcher,1
+American alligator,2
+American avocet,1
+American bittern,1
+American black duck,5
+American coot,24
+American crow,69
+American golden-plover,19
+American goldfinch,4
+American kestrel,444
+American pipit,10
+American redstart,1
+American robin,129
+American tree sparrow,3
+American white pelican,8
+American wigeon,12
+American woodcock,9
+Anhinga,8
+Anna's hummingbird,1
+Armadillo,2
+Baird's sandpiper,2
+Bald eagle,52
+Baltimore oriole,2
+Bank swallow,66
+Barn owl,130
+Barn swallow,579
+Barred owl,4
+Belted kingfisher,1
+Big brown bat,1
+Black francolin,2
+Black vulture,37
+Black-bellied plover,26
+Black-bellied whistling-duck,2
+Black-billed magpie,3
+Black-capped chickadee,8
+Black-crowned night-heron,3
+Black-footed albatross,3
+Black-headed munia,16
+Black-necked stilt,1
+Black-tailed jackrabbit,10
+Black-throated blue warbler,2
+Black-throated green warbler,1
+Blackbirds,62
+Blackburnian warbler,1
+Blackpoll warbler,9
+Blue jay,3
+Blue-winged teal,3
+Boat-tailed grackle,5
+Bobolink,1
+Bohemian waxwing,1
+Bonaparte's gull,5
+Bonin petrel,5
+Brant,5
+Brazilian free-tailed bat,12
+Brewer's blackbird,2
+Broad-winged hawk,4
+Brown noddy,7
+Brown pelican,17
+Brown thrasher,1
+Brown-headed cowbird,30
+Buff-breasted sandpiper,3
+Bufflehead,2
+Burrowing owl,18
+Bushtit,1
+California gull,38
+California towhee,1
+Canada goose,371
+Canada warbler,1
+Canvasback,6
+Cape May warbler,1
+Carolina chickadee,1
+Caspian tern,3
+Cassin's vireo,1
+Cattle egret,80
+Cave swallow,3
+Cedar waxwing,16
+Chestnut-collared longspur,1
+Chimney swift,48
+Chipping sparrow,5
+Chuck-will's-widow,4
+Chukar,2
+Cinnamon teal,1
+Cliff swallow,183
+Common goldeneye,3
+Common grackle,24
+Common ground-dove,1
+Common loon,7
+Common merganser,1
+Common myna,20
+Common nighthawk,36
+Common poorwill,1
+Common raven,9
+Common tern,2
+Common waxbill,1
+Common yellowthroat,4
+Cooper's hawk,10
+Coyote,59
+Crested caracara,1
+Dark-eyed junco,10
+Domestic cat,2
+Domestic dog,1
+Double-crested cormorant,26
+Doves,14
+Ducks,7
+Dunlin,5
+Eastern kingbird,4
+Eastern meadowlark,108
+Eastern phoebe,3
+Eastern towhee,1
+Egrets,6
+European golden-plover,4
+European starling,885
+Fairy tern,1
+Ferruginous hawk,2
+Field sparrow,5
+Finches,23
+Fox sparrow,5
+Franklin's gull,22
+Gadwall,15
+Geese,1
+Glaucous gull,10
+Glaucous-winged gull,22
+Golden eagle,2
+Golden-crowned kinglet,1
+Golden-crowned sparrow,1
+Grackles,4
+Grasshopper sparrow,1
+Gray catbird,7
+Gray flycatcher,2
+Gray francolin,2
+Gray partridge,2
+Gray-cheeked thrush,2
+Gray-headed chickadee,1
+Great black-backed gull,14
+Great blue heron,81
+Great cormorant,1
+Great egret,22
+Great frigatebird,2
+Great horned owl,16
+Great-tailed grackle,5
+Greater sage-grouse,2
+Greater scaup,3
+Greater white-fronted goose,19
+Greater yellowlegs,1
+Grebes,1
+Green heron,2
+Green-winged teal,11
+Gulls,43
+Gunnison's prairie dog,2
+Hairy woodpecker,1
+Hawks,22
+"Hawks, eagles, vultures",1
+Hermit thrush,10
+Herring gull,195
+Horned grebe,1
+Horned lark,339
+House finch,11
+House sparrow,29
+House wren,1
+Indigo bunting,1
+Japanese white-eye,1
+Java sparrow,1
+Killdeer,470
+Lapland longspur,7
+Lark bunting,6
+Lark sparrow,1
+Laughing gull,49
+Laysan albatross,27
+Least bittern,1
+Least sandpiper,16
+Least tern,4
+Lesser goldfinch,1
+Lesser scaup,9
+Lincoln's sparrow,2
+Little brown bat,1
+Loggerhead shrike,1
+Long-billed dowitcher,2
+Long-tailed duck,2
+Long-tailed jaeger,1
+Mallard,141
+McKay's bunting,1
+Meadowlarks,72
+Merlin,7
+Mew gull,14
+Mottled duck,7
+Mountain bluebird,2
+Mountain chickadee,1
+Mourning dove,898
+Mule deer,3
+Muscovy duck,1
+Mute swan,3
+Nashville warbler,3
+Nelson's sharp-tailed sparrow,1
+New World Vultures,3
+Northern bobwhite,2
+Northern cardinal,1
+Northern flicker,7
+Northern harrier,12
+Northern hawk owl,1
+Northern mockingbird,8
+Northern parula,1
+Northern pintail,59
+Northern rough-winged swallow,5
+Northern saw-whet owl,1
+Northern shoveler,17
+Northern waterthrush,1
+Northwestern crow,1
+Nutmeg mannikin,23
+Orange-crowned warbler,2
+Orchard oriole,3
+Osprey,62
+Ovenbird,4
+Owls,5
+Pacific golden-plover,172
+Pacific-slope flycatcher,1
+Palm warbler,1
+Parrots,3
+Pectoral sandpiper,3
+Perching birds (y),22
+Peregrine falcon,39
+Pied-billed grebe,3
+Pigeons,7
+"Pigeons, doves",1
+Pine grosbeak,1
+Pine siskin,2
+Pine warbler,1
+Piping plover,1
+Plovers,1
+Prairie dog,1
+Prairie falcon,3
+Ptarmigans,1
+Purple finch,1
+Purple martin,37
+Raccoon,5
+Red avadavat,2
+Red fox,13
+Red knot,2
+Red-breasted merganser,2
+Red-crested cardinal,2
+Red-eyed vireo,2
+Red-legged kittiwake,1
+Red-naped sapsucker,1
+Red-shouldered hawk,4
+Red-tailed hawk,412
+Red-tailed tropicbird,1
+Red-throated loon,2
+Red-vented bulbul,2
+Red-winged blackbird,31
+Redhead,2
+Ring-billed gull,241
+Ring-necked duck,3
+Ring-necked pheasant,13
+Rock pigeon,596
+Rock sandpiper,1
+Rose-breasted grosbeak,1
+Rough-legged hawk,11
+Ruby-crowned kinglet,4
+Ruby-throated hummingbird,1
+Ruddy duck,8
+Ruddy turnstone,1
+Sage sparrow,2
+Sanderling,5
+Sandhill crane,39
+Sandpipers,7
+Savannah sparrow,40
+Scarlet tanager,1
+Scissor-tailed flycatcher,20
+Semipalmated plover,9
+Semipalmated sandpiper,17
+Sharp-shinned hawk,1
+Short-billed dowitcher,2
+Short-eared owl,52
+Silver-haired bat,1
+Sky lark,11
+Snow bunting,65
+Snow goose,36
+Snowy egret,5
+Snowy owl,15
+Snowy plover,1
+Song sparrow,2
+Sooty tern,1
+Sora,1
+Sparrows,73
+Spotted dove,49
+Spotted sandpiper,1
+Striped skunk,4
+Swainson's hawk,21
+Swainson's thrush,12
+Swallows,43
+Swamp sparrow,2
+Thayer's gull,1
+Tree swallow,128
+Tropical mockingbird,1
+Trumpeter swan,1
+Tundra swan,4
+Turkey vulture,178
+Unknown bird - large,797
+Unknown bird - medium,4318
+Unknown bird - small,10505
+Unknown bird or bat,60
+Upland sandpiper,24
+Varied thrush,7
+Vaux's swift,6
+Veery,1
+Vesper sparrow,2
+Violet-green swallow,3
+Virginia opossum,14
+Western bluebird,1
+Western grebe,4
+Western gull,21
+Western kingbird,17
+Western meadowlark,106
+Western sandpiper,26
+Western tanager,2
+Whimbrel,4
+White tern,3
+White-crowned sparrow,3
+White-eyed vireo,1
+White-faced ibis,2
+White-tailed deer,85
+White-tailed jackrabbit,1
+White-tailed kite,7
+White-throated munia,2
+White-throated sparrow,16
+White-throated swift,4
+White-winged dove,6
+Whooping crane,1
+Wild turkey,26
+Willet,1
+Wilson's phalarope,1
+Wilson's plover,1
+Wilson's snipe,10
+Wilson's warbler,3
+Wood duck,4
+Wood stork,4
+Wood warblers,1
+Woodchuck,6
+Yellow bittern,1
+Yellow warbler,3
+Yellow-bellied sapsucker,6
+Yellow-billed cuckoo,2
+Yellow-billed magpie,1
+Yellow-breasted chat,1
+Yellow-crowned night-heron,4
+Yellow-headed blackbird,1
+Yellow-legged gull,1
+Yellow-rumped warbler,11
+Zebra dove,42
