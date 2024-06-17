@@ -1,4 +1,7 @@
 # Data-Visualization-of-Birds-Strikes-
+
+![image](https://github.com/LogeshwarTheDataIntellect/Data-Visualization-of-Birds-Strikes-/assets/104715001/3ad3da6e-c0e0-474a-adcc-bfc963f70cd3)
+
 ## Overview
 
 This project focuses on analyzing bird strike data to improve aviation safety by predicting and preventing bird strikes. A bird strike, defined as a collision between a bird and an aircraft engine, can cause serious mishaps such as crash landings or aircraft stalling. By examining historical data, we aim to uncover patterns and insights that can guide predictive measures and enhance safety protocols.
