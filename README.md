@@ -76,32 +76,6 @@ The analysis of bird strike data reveals critical insights that can significantl
 
 By following these steps, airlines and airports can reduce bird strike incidents and enhance flight safety.
 
-## Getting Started
-
-### Prerequisites
-- Python 3.x
-- Jupyter Notebook
-- Libraries: pandas, matplotlib, seaborn, scikit-learn
-
-### Installation
-Clone the repository:
-```sh
-git clone https://github.com/yourusername/Bird-Strikes-Data-Analysis.git
-```
-Install the required libraries:
-```sh
-pip install -r requirements.txt
-```
-
-### Usage
-Run the Jupyter Notebook to explore the analysis and findings:
-```sh
-jupyter notebook Bird_Strikes_Analysis.ipynb
-```
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - Unified Mentor Private Limited for providing the dataset and project guidance.
 - All contributors and reviewers for their invaluable input and feedback.
