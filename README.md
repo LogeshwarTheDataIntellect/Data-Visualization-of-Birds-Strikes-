@@ -8,7 +8,7 @@ This project focuses on analyzing bird strike data to improve aviation safety by
 
 ## Problem Statement
 
-Bird strikes pose significant risks to aviation safety. To prevent future incidents, this project aims to predict bird strikes by analyzing historical data. This involves examining parameters such as the phase of flight, time of day, altitude, bird species, and size to establish patterns. Understanding these patterns can help predict and prevent bird strikes, ultimately saving lives. Algorithms such as linear regression, random forest, and time series analysis will be used for prediction.
+Bird strikes pose significant risks to aviation safety. To prevent future incidents, this project aims to predict bird strikes by analyzing historical data. This involves examining parameters such as the phase of flight, time of day, altitude, bird species, and size to establish patterns. Understanding these patterns can help predict and prevent bird strikes, ultimately saving lives. Algorithms such as linear regression, random forest, and time series analysis will be used for prediction...
 
 ## Objectives
 
