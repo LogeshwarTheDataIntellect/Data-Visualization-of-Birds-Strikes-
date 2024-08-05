@@ -15,7 +15,7 @@ Bird strikes pose significant risks to aviation safety. To prevent future incide
 ### Impact Analysis
 - **Assess Damage and Costs**: Most bird strikes do not cause damage, but those that do can incur significant costs, especially during the climb, approach, and take-off run phases of flight.
 - **Airline/Operator Analysis**: Examine which airlines are most frequently involved in bird strikes and their associated costs.
-- **Aircraft Models Analysis**: Analyze the distribution and costs associated with different aircraft models.
+- **Aircraft Models Analysis**: Analyze the distribution and costs associated with different aircraft models...
 
 ### Geographical Analysis
 - **Frequency of Bird Strikes by Airport**: Identify airports with the highest frequency of bird strikes.
